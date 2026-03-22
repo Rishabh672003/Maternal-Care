@@ -9,6 +9,7 @@ export const Navigation = () => {
 
   const navItems = [
     { name: "Home", path: "/", icon: Heart },
+    { name: "Pipeline", path: "/pipeline", icon: Stethoscope },
     { name: "Login", path: "/login", icon: User },
     { name: "About", path: "/contact", icon: Stethoscope },
   ];
